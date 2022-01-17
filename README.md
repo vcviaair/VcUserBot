@@ -15,7 +15,7 @@
 # أرسل إلى HEROKU 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamOctave/VCUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vcviaair/VcUserBot)
 
 # الإئتمان
 
